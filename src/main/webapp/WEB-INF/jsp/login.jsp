@@ -9,7 +9,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->
 <link rel="icon" type="image/png"
-	href="<c:url value="resources/login/images/icons/favicon.ico"/>" />
+href="<c:url value="resources/login/images/icons/favicon.ico"/>" />
 <!--===============================================================================================-->
 <link rel="stylesheet" type="text/css"
 	href="<c:url value="resources/login/vendor/bootstrap/css/bootstrap.min.css"/>">
@@ -37,6 +37,7 @@
 <!--===============================================================================================-->
 <link rel="stylesheet" type="text/css"
 	href="<c:url value="resources/login/css/util.css"/>">
+	
 <link rel="stylesheet" type="text/css"
 	href="<c:url value="resources/login/css/main.css"/>">
 <!--===============================================================================================-->
