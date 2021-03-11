@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package com.mycompany.jv30_project_final.controller;
-
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
