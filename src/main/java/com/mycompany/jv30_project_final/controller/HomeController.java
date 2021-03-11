@@ -20,7 +20,7 @@ public class HomeController {
 
     @RequestMapping(value = {"/", "/home"}, method = RequestMethod.GET)
     public String viewHome(Model model) {
-        return "home";
+        return "store";// change
     }
 
     @RequestMapping("/login")
